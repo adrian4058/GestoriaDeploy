@@ -1,4 +1,4 @@
-import Slider from "react-slick";
+import Slider from "./components/Slider/Slider";
 import Navbar from "./components/Navbar/Navbar";
 import Services from "./components/Services/Services";
 import About from "./components/About Us/About";
@@ -11,7 +11,7 @@ import { FaWhatsappSquare } from "react-icons/fa";
 function App() {
   return (
     <div className="">
-      <section className="" id="home">
+      <section>
         <Navbar/>
         <Slider/>
       </section>

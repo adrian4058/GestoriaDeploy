@@ -7,6 +7,7 @@ export interface SliderSettings {
   autoplay: boolean;
   autoplaySpeed: number;
   arrows: boolean;
+  style?: React.CSSProperties;
 }
 
 export interface Link {
