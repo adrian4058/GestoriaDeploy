@@ -35,7 +35,7 @@ const Navbar: React.FC = () => {
   ];
 
   return (
-    <header className="bg-[#e5e6e4] fixed top-0 left-0 z-50 w-full items-center lg:pl-16 lg:pr-16 lg:flex ">
+    <header className="bg-[#e5e6e4] fixed top-0 left-0 z-50 w-full items-center lg:pl-16 lg:pr-16 lg:flex animate-fade-right animate-duration-1000 animate-ease-in-out">
       <nav className="md:flex w-full justify-between items-center mx-5">
         <a href="#home" className="flex items-center z-50">
           <img className="w-24 h-24 mr-2" src={car} />
