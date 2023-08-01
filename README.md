@@ -20,10 +20,8 @@ SPA para consultora de gestoría del automotor
 
 ## Autor
 
-Adrian Perez - [LinkedIn]((https://www.linkedin.com/in/adrian4058))
+Adrian Perez - [LinkedIn](https://www.linkedin.com/in/adrian4058)
 
-## Licencia
 
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT) - consulta el archivo `LICENSE` para obtener más detalles.
 
 
