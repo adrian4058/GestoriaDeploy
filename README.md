@@ -16,11 +16,11 @@ SPA para consultora de gestoría del automotor
 
 ## Enlaces
 
-- [Enlace al Repositorio]([https://github.com/adrian4058/GestoriaDeploy]) - Enlace al repositorio de GitHub.
+- [Enlace al Repositorio](https://github.com/adrian4058/GestoriaDeploy) - Enlace al repositorio de GitHub.
 
 ## Autor
 
-Adrian Perez - [LinkedIn]([(https://www.linkedin.com/in/adrian4058)])
+Adrian Perez - [LinkedIn]((https://www.linkedin.com/in/adrian4058))
 
 ## Licencia
 
