@@ -4,6 +4,7 @@ import {
   AiFillFacebook,
   AiFillLinkedin,
 } from "react-icons/ai";
+import { Link } from "../../types";
 import { IoMdMail } from "react-icons/io";
 
 const Footer: React.FC = () => {
