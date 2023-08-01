@@ -5,7 +5,7 @@ const Maps: React.FC = () => {
   return (
     
       <MapContainer
-        className="md:w-full md:h-full py-60"
+        className="md:w-full md:h-full z-10 py-60"
         center={[-30.95102, -61.5632]}
         zoom={17}
         scrollWheelZoom={false}
