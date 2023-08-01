@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #ecf8f8;
+  max-width: 100vw;
+  font-family: "Mulish", sans-serif;
+  overflow-x: hidden;
+}
+
+
+
+
+/* CSS personalizado para aplicar el brillo */
+.custom-brightness {
+  filter: brightness(1.2); /* Puedes ajustar el valor para controlar la intensidad del brillo */
+}
+
+/* carousel.css */
+.slick-dots {
+  display: flex !important;
+  left: 60px;
+  bottom: 50px;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: 0.75;
+  color: black;
+}
+.slick-dots li button:before {
+  font-size: 0px;
+}
+
+.slick-dots li button {
+  width: 10px;
+  height: 10px;
+  background-color: rgba(255, 255, 255, 0.822) !important;
+  border: 0.1px solid white;
+  border-radius: 50%;
+  opacity: 0.75;
+}
+
+.slick-dots li.slick-active button {
+  background-color: #1b9aaa !important; /* !important para dar prioridad */
+}
